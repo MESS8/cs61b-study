@@ -1,4 +1,4 @@
-git commit -m "done with Collatz"public class HelloNumbers {
+public class HelloNumbers {
     public static void main(String[] args) {
         int x = 1;
         int total = 0;
